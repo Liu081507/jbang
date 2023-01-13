@@ -2,7 +2,7 @@
 	"catalogs": {},
 	"aliases": {
 	  "camel": {
-		"script-ref": "jbang-main/CamelJBang.java",
+		"script-ref": "CamelJBang.java",
 		"description": "Run Apache Camel routes easily"
 	  }
 	}
